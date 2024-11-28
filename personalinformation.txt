@@ -6,5 +6,6 @@ designation:Engineer
 age:29
 location:ekm
 state:kerala/ke
-state:kerala/kl
+state:
+country:india
 
